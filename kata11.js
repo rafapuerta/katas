@@ -1,3 +1,5 @@
+// Kata #11 => http://codekata.com/kata/kata11-sorting-it-out/
+
 class Bolas {
   constructor() {
     this.bolas = [];
